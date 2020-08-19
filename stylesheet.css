@@ -30,8 +30,8 @@ body, html {
 .btn-liquid {
 	display: inline-block;
 	position: relative;
-	width: 240px;
-	height: 60px;
+	width: 120px;
+	height: 30px;
 
 	border-radius: 27px;
 
@@ -47,14 +47,4 @@ body, html {
 	position: relative;
 
 	z-index: 2;
-}
-
-.btn-liquid canvas {
-	position: absolute;
-	top: -50px;
-	right: -50px;
-	bottom: -50px;
-	left: -50px;
-
-	z-index: 1;
 }
