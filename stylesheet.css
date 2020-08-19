@@ -76,5 +76,5 @@ body, html {
   letter-spacing: 0.05rem;
 }
 .btn:focus {
-  outline: 3.5px dotted #ffffff;
+  outline: 2px dotted #ffffff;
 }
