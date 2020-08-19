@@ -29,6 +29,7 @@ body, html {
 
 .btn-liquid {
 	display: inline-block;
+	background-color: Transparent;
 	position: relative;
 	width: 120px;
 	height: 30px;
@@ -47,4 +48,14 @@ body, html {
 	position: relative;
 
 	z-index: 2;
+}
+
+.btn-liquid canvas {
+	position: absolute;
+	top: -50px;
+	right: -50px;
+	bottom: -50px;
+	left: -50px;
+
+	z-index: 1;
 }
