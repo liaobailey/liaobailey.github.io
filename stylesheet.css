@@ -11,11 +11,20 @@ body, html {
   position: relative;
 }
 
-.hero-text {
+.hero-start {
   text-align: left;
   position: absolute;
   top: 50%;
-  left: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-text {
+  text-align: left;
+  position: absolute;
+  top: 30%;
+  left: 20%;
   transform: translate(-50%, -50%);
   color: white;
 }
