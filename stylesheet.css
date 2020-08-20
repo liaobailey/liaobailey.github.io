@@ -13,12 +13,14 @@ body, html {
 
 .navbar {
   overflow: visible;
-  height: 200px;
   background:transparent;
   background-color: #333;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
+  position:fixed;  
+  top: 0;
+  left: 0;
+  text-align: inline;     
+  height:90px;
 }
 
 /* Links inside the navbar */
