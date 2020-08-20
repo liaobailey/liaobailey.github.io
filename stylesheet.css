@@ -20,7 +20,8 @@ body, html {
 
 .mySlides img {
   width: 100%;
-  margin-bottom: -15%;
+  margin-bottom: -17%;
+  margin-top: -5%;
 }
 
 /* Add a pointer when hovering over the thumbnail images */
@@ -72,7 +73,7 @@ body, html {
   background-color: #222;
   padding: 2px 16px;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 25px;
   color: white;
 }
 
