@@ -23,6 +23,7 @@ body, html {
 
 /* Links inside the navbar */
 .navbar a {
+  position: absolute;
   float: left;
   display: block;
   color: #f2f2f2;
