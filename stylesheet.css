@@ -102,14 +102,13 @@ body, html {
 
 .navbar {
   overflow: hidden;
-  background:transparent;
   background-color: #333;
   width: 100%; /* Full width */
   position:fixed;  
   top: 0;
   left: 0;
   text-align: inline;     
-  height:90px;
+  height:60px;
 }
 
 /* Links inside the navbar */
