@@ -14,7 +14,7 @@ body, html {
 .mySlides {
   display: none;
   text-align: center;
-  height: 400px;
+  height: 250px;
 }
 
 /* Add a pointer when hovering over the thumbnail images */
