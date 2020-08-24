@@ -143,8 +143,8 @@ body, html {
 .hero-text {
   text-align: left;
   position: absolute;
-  top: 30%;
-  left: 20%;
+  top: 100px;
+  left: 90px;
   transform: translate(-50%, -50%);
   color: white;
 }
