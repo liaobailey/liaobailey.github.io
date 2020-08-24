@@ -142,7 +142,7 @@ body, html {
 
 .hero-text {
   text-align: left;
-  position: static;
+  position: relative;
   display: block;
   top: 30%;
   left: 20%;
