@@ -162,7 +162,6 @@ nav li a {
   font-weight: bold;
   font-size: 20px;
   color: white;
-  transform: translate(0, -50%);
 }
 
 .row:after {
@@ -188,7 +187,7 @@ nav li a {
 }
 
 #caption {
-  vertical-align: middle;
+  transform: translate(0, -50%)
 }
 
 .hero-text {
