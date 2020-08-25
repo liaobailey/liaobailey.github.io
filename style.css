@@ -162,7 +162,7 @@ nav li a {
   font-weight: bold;
   font-size: 20px;
   color: white;
-  transform: translate(-50%, -50%);
+  transform: translate(0, -50%);
 }
 
 .row:after {
@@ -190,7 +190,7 @@ nav li a {
 .hero-text {
   text-align: left;
   position: absolute;
-  top: 200px;
+  top: 100px;
   left: 120px;
   color: white;
 }
