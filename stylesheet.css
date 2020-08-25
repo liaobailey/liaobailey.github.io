@@ -15,6 +15,7 @@ body, html {
 .mySlides {
   width:100%; /*container-width*/
   overflow:hidden; /*hide bounds of image */
+  padding-top: 120px;
   margin:0;   /*reset margin of figure tag*/
   z-index : 1000;
 }
