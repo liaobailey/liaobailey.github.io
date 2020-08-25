@@ -131,15 +131,6 @@ body, html {
 
 /* Main content */
 
-.hero-start {
-  text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-}
-
 .hero-text {
   text-align: left;
   position: absolute;
@@ -149,6 +140,10 @@ body, html {
 }
 
 a.button1{
+ text-align: right;
+ position: absolute;
+ top: 210px;
+ right: 120px;
  display:inline-block;
  padding:0.35em 1.2em;
  border:0.1em solid #FFFFFF;
@@ -159,7 +154,6 @@ a.button1{
  font-family:'Roboto',sans-serif;
  font-weight:300;
  color:#FFFFFF;
- text-align:center;
  transition: all 0.2s;
 }
 a.button1:hover{
