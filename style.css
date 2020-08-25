@@ -187,6 +187,10 @@ nav li a {
   opacity: 1;
 }
 
+#caption {
+  vertical-align: middle;
+}
+
 .hero-text {
   text-align: left;
   position: absolute;
