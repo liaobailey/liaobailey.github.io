@@ -190,3 +190,10 @@ nav li a {
   opacity: 1;
 }
 
+.hero-text {
+  text-align: left;
+  position: absolute;
+  top: 200px;
+  left: 120px;
+  color: white;
+}
