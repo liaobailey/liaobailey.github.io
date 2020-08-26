@@ -206,10 +206,9 @@ nav li a {
 .wrap {
   text-align: left;
   position: absolute;
-  top: 200px;
+  top: 250px;
   left: 120px;
   height: 100%;
-  display: flex;
   justify-content: center;
 }
 
@@ -220,8 +219,8 @@ nav li a {
   text-transform: uppercase;
   letter-spacing: 1.3px;
   font-weight: 700;
-  color: #313133;
-  background: #4FD1C5;
+  color: #FFFFFF;
+  background: #313133;
   background: linear-gradient(90deg, rgba(129,230,217,1) 0%, rgba(79,209,197,1) 100%);
   border: none;
   border-radius: 1000px;
