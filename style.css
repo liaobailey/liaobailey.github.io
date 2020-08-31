@@ -165,12 +165,7 @@ nav li a {
   color: white;
 }
 
-.row {
-  padding-left: 2.8%;
-  width: 100%;
-}
-
-.row:after {
+.row2:after {
   content: "";
   display: table;
   clear: both;
