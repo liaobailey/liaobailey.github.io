@@ -107,6 +107,7 @@ nav li a {
   overflow:hidden; /*hide bounds of image */
   margin:0;   /*reset margin of figure tag*/
   z-index : 1000;
+  border-radius: 15px 15px 0 0;
 }
 
 .mySlides img {
