@@ -289,6 +289,7 @@ button:hover::after, button:focus::after {
 
 .aboutme img {
   margin-bottom: -20%;
+  z-index: 1000;
 }
 
 .course {
@@ -300,6 +301,7 @@ button:hover::after, button:focus::after {
 	margin: 20px;
 	overflow: hidden;
 	width: 700px;
+	z-index: 1001;
 }
 
 .course h6 {
