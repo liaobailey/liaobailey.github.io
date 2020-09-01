@@ -281,3 +281,7 @@ button:hover::after, button:focus::after {
     opacity: 0;
   }
 }
+
+.aboutme {
+  width: 100%;
+}
