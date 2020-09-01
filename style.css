@@ -291,10 +291,6 @@ button:hover::after, button:focus::after {
   margin-bottom: -20%;
 }
 
-.courses-container {
-	
-}
-
 .course {
 	background-color: #fff;
 	border-radius: 10px;
