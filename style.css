@@ -287,6 +287,6 @@ button:hover::after, button:focus::after {
   overflow: hidden;
 }
 
-.aboutme {
+.aboutme img {
   margin-bottom: -20%
 }
