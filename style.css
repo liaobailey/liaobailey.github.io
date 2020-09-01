@@ -284,8 +284,5 @@ button:hover::after, button:focus::after {
 
 .aboutme {
   width: 100%;
-}
-
-.aboutme img {
-  margin-bottom: -300px;
+  margin-bottom: -100px;
 }
