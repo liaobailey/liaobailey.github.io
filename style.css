@@ -310,7 +310,7 @@ button:hover::after, button:focus::after {
 }
 
 .course h6 {
-	opacity: 0.6;
+	opacity: 0.1;
 	margin: 0;
 	letter-spacing: 1px;
 	text-transform: uppercase;
