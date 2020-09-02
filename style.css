@@ -321,6 +321,12 @@ button:hover::after, button:focus::after {
 	margin: 10px 0;
 }
 
+.course h3 {
+	letter-spacing: 1px;
+	margin: 10px 0;
+	color: #313133;
+}
+
 .course-preview {
 	background-color: #313133;
 	color: #fff;
