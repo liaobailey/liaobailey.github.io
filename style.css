@@ -348,3 +348,17 @@ button:hover::after, button:focus::after {
 	position: relative;
 	width: 100%;
 }
+
+.left {
+	width: 50%; 
+	background: #FFFFFF;
+	margin-top: 50%;
+	color: #313133;
+}
+
+.right {
+	flex-grow: 1; 
+	background: #313133;
+	margin-top: 50%;
+	color: #FFFFFF;
+}
