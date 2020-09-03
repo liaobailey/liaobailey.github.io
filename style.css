@@ -356,7 +356,7 @@ button:hover::after, button:focus::after {
 }
 
 .left txt {
-	margin-top: 50%;
+	padding-top: 10%;
 }
 
 .right {
@@ -366,5 +366,5 @@ button:hover::after, button:focus::after {
 }
 
 .right txt{
-	margin-top: 50%;
+	padding-top: 10%;
 }
