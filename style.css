@@ -352,13 +352,19 @@ button:hover::after, button:focus::after {
 .left {
 	width: 50%; 
 	background: #FFFFFF;
-	margin-top: 50%;
 	color: #313133;
+}
+
+.left txt {
+	margin-top: 50%;
 }
 
 .right {
 	flex-grow: 1; 
 	background: #313133;
-	margin-top: 50%;
 	color: #FFFFFF;
+}
+
+.right txt{
+	margin-top: 50%;
 }
