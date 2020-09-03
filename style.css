@@ -353,18 +353,16 @@ button:hover::after, button:focus::after {
 	width: 50%; 
 	background: #FFFFFF;
 	color: #313133;
-}
-
-.left txt {
-	padding-top: 10%;
+	border-radius: 0 0 15px 0;
 }
 
 .right {
 	flex-grow: 1; 
 	background: #313133;
 	color: #FFFFFF;
+	border-radius: 0 0 0 15px;
 }
 
-.right txt{
+.txt{
 	padding-top: 10%;
 }
