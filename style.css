@@ -301,7 +301,7 @@ button:hover::after, button:focus::after {
 	margin-top: 100px;
 	overflow: hidden;
 	width: 70%;
-	height: 30%;
+	height: 15%;
 	position: absolute;
 	z-index: 1001;
 	left:0;
