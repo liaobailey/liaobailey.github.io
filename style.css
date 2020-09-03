@@ -298,7 +298,7 @@ button:hover::after, button:focus::after {
 	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
 	display: flex;
 	max-width: 100%;
-	margin-top: 100px;
+	margin-top: 10%;
 	overflow: hidden;
 	width: 70%;
 	height: 15%;
@@ -354,14 +354,14 @@ button:hover::after, button:focus::after {
 	width: 50%; 
 	background: #FFFFFF;
 	color: #313133;
-	border-radius: 0 0 15px 0;
+	border-radius: 0 0 0 15px;
 }
 
 .right {
 	flex-grow: 1; 
 	background: #313133;
 	color: #FFFFFF;
-	border-radius: 0 0 0 15px;
+	border-radius: 0 0 15px 0;
 }
 
 .txt{
