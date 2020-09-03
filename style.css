@@ -331,8 +331,8 @@ button:hover::after, button:focus::after {
 .course-preview {
 	background-color: #313133;
 	color: #fff;
-	padding: 30px;
-	max-width: 250px;
+	padding: 10%;
+	max-width: 30%;
 }
 
 .course-preview a {
@@ -340,12 +340,12 @@ button:hover::after, button:focus::after {
 	display: inline-block;
 	font-size: 12px;
 	opacity: 0.6;
-	margin-top: 30px;
+	margin-top: 10%;
 	text-decoration: none;
 }
 
 .course-info {
-	padding: 30px;
+	padding: 10%;
 	position: relative;
 	width: 100%;
 }
