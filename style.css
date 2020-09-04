@@ -199,6 +199,10 @@ nav li a {
   color: white;
 }
 
+.h1 {
+	font-size: 15%;
+}
+
 .wrap {
   text-align: left;
   position: absolute;
