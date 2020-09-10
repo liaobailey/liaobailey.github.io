@@ -190,9 +190,10 @@ nav li a {
 .hero-text {
   text-align: left;
   position: absolute;
-  top: 200px;
-  left: 120px;
+  top: 10%;
+  left: 12%;
   color: white;
+  font-size: 15%;
 }
 
 a.button1{
