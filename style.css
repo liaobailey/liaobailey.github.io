@@ -197,10 +197,7 @@ nav li a {
   top: 10%;
   left: 12%;
   color: white;
-}
-
-.h1 {
-	font-size: 15%;
+  font-size: 15%;
 }
 
 .wrap {
@@ -213,9 +210,9 @@ nav li a {
 }
 
 .button {
-  min-width: 200px;
-  min-height: 30px;
-  font-size: 20px;
+  min-width: 15%;
+  min-height: 5%;
+  font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 1.3px;
   font-weight: 700;
