@@ -194,9 +194,12 @@ nav li a {
 .hero-text {
   text-align: left;
   position: absolute;
-  top: 10%;
+  top: 5%;
   left: 12%;
   color: white;
+}
+
+.he1 {
   font-size: 15%;
 }
 
