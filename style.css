@@ -320,11 +320,16 @@ button:hover::after, button:focus::after {
 	margin: 0;
 	letter-spacing: 1px;
 	text-transform: uppercase;
+	position: absolute;
+	top: 20%;
+	color: #fff;
 }
 
 .course h2 {
 	letter-spacing: 1px;
 	margin: 10px 0;
+	position: absolute;
+	top: 30%;
 }
 
 .course h3 {
