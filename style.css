@@ -228,7 +228,8 @@ nav li a {
   transition: all 0.3s ease-in-out 0s;
   cursor: pointer;
   outline: none;
-  position: relative;
+  position: absolute;
+  top: 20%;
   padding: 10px;
   }
 
