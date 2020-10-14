@@ -200,7 +200,7 @@ nav li a {
 }
 
 .he1 {
-  font-size: 250%;
+  font-size: 15rem;
 }
 
 .wrap {
@@ -229,7 +229,7 @@ nav li a {
   cursor: pointer;
   outline: none;
   position: absolute;
-  top: 20%;
+  margin-top: 40%;
   padding: 10px;
   }
 
