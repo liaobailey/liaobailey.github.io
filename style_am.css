@@ -111,6 +111,7 @@ nav li a {
   top: 40%;
   left: 10%;
   font-size: 2vw;
+  text-align: left;
 }
 
 p span { 
@@ -120,7 +121,6 @@ p span {
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.7);
    padding: 10px; 
-   text-align: left !important;
 }
 
 p span.spacer {
