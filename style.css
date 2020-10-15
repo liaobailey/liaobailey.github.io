@@ -179,11 +179,11 @@ nav li a {
 }
 
 .leftbot {
-  border-radius: 0 0 15px 0;
+  border-radius: 0 0 0 15px;
 }
 
 .rightbot {
-  border-radius: 0 0 0 15px;
+  border-radius: 0 0 15px 0;
 }
 
 /* Add a transparency effect for thumnbail images */
