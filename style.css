@@ -178,6 +178,14 @@ nav li a {
   width: 25%;
 }
 
+.column leftbot {
+  border-radius: 0 0 15px 0;
+}
+
+.column rightbot {
+  border-radius: 0 0 0 15px;
+}
+
 /* Add a transparency effect for thumnbail images */
 .demo {
   opacity: 0.6;
@@ -287,95 +295,4 @@ button:hover::after, button:focus::after {
     height: 300px;
     opacity: 0;
   }
-}
-
-.aboutme {
-  width: 100%;
-  overflow: hidden;
-}
-
-.aboutme img {
-  margin-bottom: -30%;
-  z-index: 1000;
-}
-
-.course {
-	background-color: #fff;
-	border-radius: 10px;
-	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
-	display: flex;
-	max-width: 100%;
-	margin-top: 10%;
-	overflow: hidden;
-	width: 70%;
-	height: 15%;
-	position: absolute;
-	z-index: 1001;
-	left:0;
-	right:0;
-	margin-left:auto;
-	margin-right:auto;
-}
-
-.course h6 {
-	opacity: 0.1;
-	margin: 0;
-	letter-spacing: 1px;
-	text-transform: uppercase;
-	position: absolute;
-	top: 20%;
-	color: #fff;
-}
-
-.course h2 {
-	letter-spacing: 1px;
-	margin: 10px 0;
-	position: absolute;
-	top: 30%;
-}
-
-.course h3 {
-	letter-spacing: 1px;
-	margin: 10px 0;
-	color: #313133;
-}
-
-.course-preview {
-	background-color: #313133;
-	color: #fff;
-	padding: 10%;
-	max-width: 30%;
-}
-
-.course-preview a {
-	color: #313133;
-	display: inline-block;
-	font-size: 12px;
-	opacity: 0.6;
-	margin-top: 10%;
-	text-decoration: none;
-}
-
-.course-info {
-	padding: 10%;
-	position: relative;
-	width: 100%;
-}
-
-.left {
-	width: 50%; 
-	background: #FFFFFF;
-	color: #313133;
-	border-radius: 0 0 0 15px;
-}
-
-.right {
-	flex-grow: 1; 
-	background: #313133;
-	color: #FFFFFF;
-	border-radius: 0 0 15px 0;
-}
-
-.txt{
-	padding-top: 10%;
 }
