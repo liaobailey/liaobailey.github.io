@@ -178,11 +178,11 @@ nav li a {
   width: 25%;
 }
 
-.column leftbot {
+.leftbot {
   border-radius: 0 0 15px 0;
 }
 
-.column rightbot {
+.rightbot {
   border-radius: 0 0 0 15px;
 }
 
