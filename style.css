@@ -215,7 +215,7 @@ nav li a {
 .wrap {
   text-align: left;
   position: absolute;
-  top: 20%;
+  top: 22%;
   left: 12%;
   height: 5%;
   width: 2.5vw;
@@ -238,7 +238,6 @@ nav li a {
   cursor: pointer;
   outline: none;
   position: absolute;
-  margin-top: 40%;
   padding: 10px;
   }
 
