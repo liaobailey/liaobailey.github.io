@@ -237,7 +237,7 @@ nav li a {
   transition: all 0.3s ease-in-out 0s;
   cursor: pointer;
   outline: none;
-  padding: 10px;
+  padding: 5px;
   }
 
 button::before {
