@@ -225,10 +225,10 @@ nav li a {
 .button {
   min-width: 100%;
   min-height: 5%;
-  font-size: 2vw;
+  font-size: 1.3vw;
   text-transform: uppercase;
   letter-spacing: 1.6px;
-  font-weight: 700;
+  font-weight: 500;
   color: #FFFFFF;
   background: #313133;
   border: none;
