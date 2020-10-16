@@ -296,3 +296,9 @@ button:hover::after, button:focus::after {
     opacity: 0;
   }
 }
+
+br {
+   display: block;
+   content: "";      
+   margin-top: 3%;
+}
