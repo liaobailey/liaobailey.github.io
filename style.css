@@ -215,10 +215,10 @@ nav li a {
 .wrap {
   text-align: left;
   position: absolute;
-  top: 15%;
+  top: 20%;
   left: 12%;
   height: 5%;
-  width: 2vw;
+  width: 2.5vw;
   justify-content: center;
 }
 
