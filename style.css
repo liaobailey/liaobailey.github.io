@@ -174,7 +174,7 @@ hr.solid {
   font-stretch: normal;
   font-style: normal;
   line-height: 1.5;
-  margin: 10px 3px 3px 3px;
+  margin: 1vw 3px 3px 3px;
 }
 
 .about-me-a.effect-underline:after {
