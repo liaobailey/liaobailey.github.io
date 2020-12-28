@@ -179,10 +179,10 @@ hr.solid {
 .about-me-a.effect-underline:after {
 	content: '';
   position: absolute;
-  left: 0;
+  left: 33.3%;
   display: inline-block;
   height: 1em;
-  width: 100%;
+  width: 33.3%;
   border-bottom: 1px solid;
   margin-top: 10px;
   opacity: 0;
