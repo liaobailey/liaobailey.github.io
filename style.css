@@ -151,7 +151,11 @@ hr.solid {
   font-style: normal;
   line-height: 1.5;
   text-transform: uppercase;
+  margin: 0;
+  position: absolute;
   top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 .about-me-p {
