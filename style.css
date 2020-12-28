@@ -103,14 +103,25 @@ nav li a {
 }
 
 .head1 {
-  font-size: 2.375rem;
+  font-size: 38px;
   text-align: center;
   letter-spacing: 6.5px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.15;
+  text-transform: uppercase;
 }
 
 .head2 {
   font-family: "Open Sans", sans-serif;
-  font-size: 0.75rem;
+  font-size: 30px;
   text-align: center;
   letter-spacing: 5px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  text-transform: uppercase;
+  margin: 4px 0 0 0;
 }
