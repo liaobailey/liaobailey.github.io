@@ -197,3 +197,15 @@ hr.solid {
 	-webkit-transform: scale(1);
 	transform: scale(1);
 }
+
+.projects {
+  font-size: 2.5vw;
+  text-align: center;
+  letter-spacing: 5px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  text-transform: uppercase;
+  margin-top: 50px;
+}
