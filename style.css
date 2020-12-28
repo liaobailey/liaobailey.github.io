@@ -135,7 +135,7 @@ hr.solid {
 }
 
 /* Clear floats after the columns */
-.row:after {
+.row-pre:after {
   content: "";
   display: table;
   clear: both;
