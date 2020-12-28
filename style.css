@@ -101,3 +101,13 @@ nav li a {
 .container {
   position: relative;
 }
+
+.head1 {
+  font-size: 38px;
+  text-align: center;
+}
+
+.head2 {
+  font-size: 30px;
+  text-align: center;
+}
