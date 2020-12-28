@@ -456,7 +456,7 @@ g: border-box;
 }
 
 .card__price-value {
-  font-size: 6rem;
+  font-size: 1.5vm;
   font-weight: 100;
 }
 
