@@ -141,3 +141,27 @@ hr.solid {
   clear: both;
   margin-top: 60px;
 }
+
+.about-me {
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 5px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  text-transform: uppercase;
+  margin: 20px 0 0 0;
+}
+
+.about-me-p {
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 5px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  text-transform: uppercase;
+  margin: 4px 0 0 0;
+}
