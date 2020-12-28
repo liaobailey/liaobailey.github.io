@@ -177,7 +177,7 @@ hr.solid {
   font-weight: bold;
 }
 
-about-me-a.effect-underline:after {
+.about-me-a.effect-underline:after {
 	content: '';
   position: absolute;
   left: 0;
@@ -193,7 +193,7 @@ about-me-a.effect-underline:after {
 	transform: scale(0,1);
 }
 
-about-me-a.effect-underline:hover:after {
+.about-me-a.effect-underline:hover:after {
   opacity: 1;
 	-webkit-transform: scale(1);
 	transform: scale(1);
