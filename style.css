@@ -332,7 +332,7 @@ g: border-box;
 }
 
 .card__side--front-2 {
-  background: linear-gradient(-45deg, #FFFFFF, #000000);
+  background: linear-gradient(-45deg, #000000, #FFFFFF);
 }
 
 .card__side--front-3 {
@@ -349,7 +349,7 @@ g: border-box;
 }
 
 .card__side--back-2 {
-  background: linear-gradient(-45deg, #FFFFFF, #000000);
+  background: linear-gradient(-45deg, #000000, #FFFFFF);
 }
 
 .card__side--back-3 {
