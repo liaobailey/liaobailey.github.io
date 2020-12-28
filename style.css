@@ -125,6 +125,10 @@ nav li a {
   margin: 4px 0 0 0;
 }
 
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+
 .column {
   float: left;
   width: 33.33%;
