@@ -155,13 +155,12 @@ hr.solid {
 }
 
 .about-me-p {
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
-  letter-spacing: 5px;
+  letter-spacing: 2px;
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
   line-height: 1.5;
-  text-transform: uppercase;
   margin: 4px 0 0 0;
 }
