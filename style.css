@@ -494,5 +494,6 @@ g: border-box;
   max-width: 10vw;
   max-height: 10vw;
   margin-bottom: 1vw;
-  background-color: transparent;
+  background-color: blue;
+  opacity: .5;
 }
