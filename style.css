@@ -488,7 +488,7 @@ g: border-box;
   width: calc((100% - 2 * 6rem) / 3);
 }
 
-.tnail.img {
+.tnail {
   border-radius: 50%;
   max-width: .5vw;
   max-height: .5vw;
