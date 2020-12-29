@@ -405,7 +405,6 @@ g: border-box;
   text-align: center;
   color: #fff;
   width: 75%;
-  margin-bottom:1vw;
 }
 
 .card__heading-span {
@@ -417,6 +416,7 @@ g: border-box;
 .card__details {
   padding: 0 2rem 2rem;
   font-size: 1vw;
+  margin-top: 2vw;
 }
 
 .card__details ul {
