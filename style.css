@@ -490,7 +490,8 @@ g: border-box;
 
 .tnail {
   border-radius: 50%;
-  max-width: 3vw;
-  max-height: 3vw;
+  max-width: 10vw;
+  max-height: 10vw;
   margin-bottom: 1vw;
+  opacity: 0.5;
 }
