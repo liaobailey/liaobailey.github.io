@@ -332,11 +332,11 @@ g: border-box;
 }
 
 .card__side--front-2 {
-  background: linear-gradient(-45deg, #000000, #FFFFFF);
+  background: linear-gradient(0deg, #000000, #FFFFFF);
 }
 
 .card__side--front-3 {
-  background: linear-gradient(-45deg, #000000, #FFFFFF);
+  background: linear-gradient(45deg, #000000, #FFFFFF);
 }
 
 .card__side--back {
