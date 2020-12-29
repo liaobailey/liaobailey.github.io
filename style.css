@@ -487,3 +487,9 @@ g: border-box;
 .row .col-1-of-3 {
   width: calc((100% - 2 * 6rem) / 3);
 }
+
+.tnail {
+  border-radius: 50%;
+  max-width: .5vw;
+  max-height: .5vw;
+}
