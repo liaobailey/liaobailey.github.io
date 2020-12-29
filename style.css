@@ -416,7 +416,7 @@ g: border-box;
 .card__details {
   padding: 0 2rem 2rem;
   font-size: 1vw;
-  margin-top: 2vw;
+  margin-top: 1.5vw;
 }
 
 .card__details ul {
