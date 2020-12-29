@@ -328,15 +328,15 @@ g: border-box;
 }
 
 .card__side--front-1 {
-  background: linear-gradient(-45deg, #808080, #FFFFFF);
+  background: linear-gradient(-45deg, #000000, #808080);
 }
 
 .card__side--front-2 {
-  background: linear-gradient(0deg, #808080, #FFFFFF);
+  background: linear-gradient(0deg, #000000, #808080);
 }
 
 .card__side--front-3 {
-  background: linear-gradient(45deg, #808080, #FFFFFF);
+  background: linear-gradient(45deg, #000000, #808080);
 }
 
 .card__side--back {
@@ -345,15 +345,15 @@ g: border-box;
 }
 
 .card__side--back-1 {
-  background: linear-gradient(-45deg, #808080, #FFFFFF);
+  background: linear-gradient(-45deg, #000000, #808080);
 }
 
 .card__side--back-2 {
-  background: linear-gradient(0deg, #808080, #FFFFFF);
+  background: linear-gradient(0deg, #000000, #808080);
 }
 
 .card__side--back-3 {
-  background: linear-gradient(45deg, #808080, #FFFFFF);
+  background: linear-gradient(45deg, #000000, #808080);
 }
 
 .card:hover .card__side--front-1,
