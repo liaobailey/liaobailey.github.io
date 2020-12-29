@@ -180,7 +180,7 @@ hr.solid {
 .about-me-a.effect-underline:after {
 	content: '';
   position: absolute;
-  left: 33.3%;
+  left: 33.34%;
   display: inline-block;
   height: 1em;
   width: 33.3%;
