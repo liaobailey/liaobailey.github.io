@@ -312,7 +312,7 @@ g: border-box;
 }
 
 .card__side {
-  height: 52rem;
+  height: 2vw;
   -webkit-transition: all 0.8s ease;
   transition: all 0.8s ease;
   position: absolute;
